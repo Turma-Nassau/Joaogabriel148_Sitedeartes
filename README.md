@@ -29,5 +29,5 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. site de jogo
 </table>
 
 ## :dart: Status do projeto
-* Em Projeção.
+* em fase de desenvolvimento.
 
