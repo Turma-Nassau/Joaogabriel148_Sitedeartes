@@ -1,16 +1,17 @@
-<h1 align="center"> site de jogos para navegador 🎮</h1>
+<h1 align="center"> site de jogos 🎮</h1>
 
 ## :memo: Descrição
-Projeto criado para a matéria de Códigos de Alta Performance Web. site de jogos para navegador 🎮.
+Projeto criado para a matéria de Códigos de Alta Performance Web. site de jogos 🎮.
 
 ## :books: Contextualização
-* <b>Contextualização </b>: A aplicação terá como objetivo disponibilizar jogos para navegadores, geralmente leves e no estilo 2d.
+* <b>Contextualização </b>: A aplicação em si será um hub de jogos, que terá como funcionalidades pricipais: disponibilizar os jogos, filtrar por estilo, e selecionar o jogo, na aplicação o usuario terá acesso aos jogos que serão no estilo 2d.
 
 ## :wrench: Tecnologias utilizadas
 * HTML
 * CSS
 * Javascript
-* Pixel Network
+* node JS
+* SQlite
 
 ## :soon: Implementação futura
 * Projeto poderá conter algumas alterações de melhorias.
