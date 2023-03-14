@@ -4,7 +4,7 @@
 Projeto criado para a matéria de Códigos de Alta Performance Web. site de jogos 🎮.
 
 ## :books: Contextualização
-* <b>Contextualização </b>: A aplicação em si será um hub de jogos, que terá como funcionalidades pricipais: disponibilizar os jogos, filtrar por estilo, e selecionar o jogo, na aplicação o usuario terá acesso aos jogos que serão no estilo 2d.
+* <b>Contextualização </b>: A aplicação em si será um hub de jogos, que terá como funcionalidades pricipais: disponibilizar os jogos, filtrar por estilo, e selecionar o jogo, na aplicação o usuario poderá acessar/jogar os jogos de forma online.
 
 ## :wrench: Tecnologias utilizadas
 * HTML
@@ -12,6 +12,17 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. site de jogo
 * Javascript
 * node JS
 * SQlite
+
+## 🛰️ API's (não está pronta)
+* ---
+
+## :game_die: Estrutura de dados (não está pronta)
+- xxx
+  - xxx
+  
+```s
+  xxx
+```
 
 ## :soon: Implementação futura
 * Projeto poderá conter algumas alterações de melhorias.
