@@ -13,8 +13,8 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. site de jogo
 * node JS
 * SQlite
 
-## 🛰️ API's (não está pronta)
-* ---
+## 🛰️ API
+* API: https://www.igdb.com/api
 
 ## :game_die: Estrutura de dados (não está pronta)
 - xxx
