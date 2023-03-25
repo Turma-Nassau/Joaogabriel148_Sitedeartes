@@ -16,12 +16,18 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. site de jogo
 ## 🛰️ API
 * API: https://www.igdb.com/api
 
-## :game_die: Estrutura de dados (não está pronta)
-- xxx
-  - xxx
+## :game_die: Estrutura de dados
+- Games
+  - o usuário deve ser capaz de ver: o nome do jogo, imagem e estilo
   
 ```s
-  xxx
+  Games {
+        game_name:"Nome do jogo"
+        game_img:"img.jpg"
+        game_style:"estilo do jogo"
+        game_id:0000
+        game_rate:"x stars"
+    }
 ```
 
 ## :soon: Implementação futura
