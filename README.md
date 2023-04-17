@@ -16,6 +16,10 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Hub de jogos
 ## 🛰️ API
 * API: https://www.igdb.com/api
 
+## :receipt: Mockup/Storyboard
+
+- [Figma](https://www.figma.com/file/afGQmgdNhhrzt15v4TWyqf/Planner-Financeiro?node-id=0%3A1&t=vc4LcWT1ifejr4em-1) In Progress
+
 ## :game_die: Estrutura de dados
 - Usuário
   - as informações de cadastro do usuário no hub
@@ -54,7 +58,6 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Hub de jogos
         game_rate:"x stars"
     }
 ```
-
 ## :soon: Implementação futura
 * Projeto poderá conter algumas alterações de melhorias.
 
