@@ -9,8 +9,8 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Hub de jogos
 ## :wrench: Tecnologias utilizadas
 * HTML
 * CSS
-* Javascript
-* node JS
+* Javascript/Node JS
+* Python
 * SQlite
 
 ## 🛰️ API
@@ -18,7 +18,7 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Hub de jogos
 
 ## :receipt: Mockup/Storyboard
 
-- [Figma](https://www.figma.com/file/afGQmgdNhhrzt15v4TWyqf/Planner-Financeiro?node-id=0%3A1&t=vc4LcWT1ifejr4em-1) In Progress
+- [Figma](/) In Progress
 
 ## :game_die: Estrutura de dados
 - Usuário
