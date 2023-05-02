@@ -9,9 +9,9 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Hub de jogos
 ## :wrench: Tecnologias utilizadas
 * HTML
 * CSS
-* Python
+* Python/Flask
 * TinyDB
-* Flask
+* MySQL
 
 ## 🛰️ API
 * API: https://www.igdb.com/api
