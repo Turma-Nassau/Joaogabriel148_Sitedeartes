@@ -1,4 +1,4 @@
-<h1 align="center"> Sites de artes 🎨</h1>
+<h1 align="center"> Site de artes 🎨</h1>
 
 ## :memo: Descrição
 Projeto criado para a matéria de Códigos de Alta Performance Web. sites de artes.
@@ -28,7 +28,6 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. sites de art
   Usuário {
         user_name: "nome do usuário"
         user_sobrenome: "sobrenome do usuário"
-        user_img: "img.jpg"
         user_email: "xxxxxx@gmail.com"
         user_password: "xxxxxxxxx"
         user_id: 0000
