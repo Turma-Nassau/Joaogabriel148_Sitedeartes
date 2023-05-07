@@ -1,10 +1,10 @@
-<h1 align="center"> Hub de jogos 🎮</h1>
+<h1 align="center"> Sites de artes 🎨</h1>
 
 ## :memo: Descrição
-Projeto criado para a matéria de Códigos de Alta Performance Web. Hub de jogos 🎮.
+Projeto criado para a matéria de Códigos de Alta Performance Web. sites de artes.
 
 ## :books: Contextualização
-* <b>Contextualização </b>: A aplicação em si será um hub de jogos, que terá como funcionalidades pricipais: disponibilizar os jogos, filtrar por estilo, e selecionar o jogo, na aplicação o usuario poderá acessar/jogar os jogos de forma online.
+* <b>Contextualização </b>: A aplicação em si será um site de artes, que terá como funcionalidades pricipais: disponibilizar artes para a visualização, filtrar por estilo, e selecionar a arte, e acessar suas informaçoẽs
 
 ## :wrench: Tecnologias utilizadas
 * HTML
@@ -14,7 +14,7 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Hub de jogos
 * MySQL
 
 ## 🛰️ API
-* API: https://www.igdb.com/api
+* API:
 
 ## :receipt: Mockup/Storyboard
 
@@ -22,7 +22,7 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Hub de jogos
 
 ## :game_die: Estrutura de dados
 - Usuário
-  - as informações de cadastro do usuário no hub
+  - as informações de cadastro do usuário no site
   
 ```s
   Usuário {
@@ -32,30 +32,28 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Hub de jogos
         user_email: "xxxxxx@gmail.com"
         user_password: "xxxxxxxxx"
         user_id: 0000
-        user_nickname: "xxxxxxx"
     }
 ```
 
 - Filtro
-  - o usuário deve ser capaz de filtar os jogos por: estilo, nome e quantidade de estrelas
+  - o usuário deve ser capaz de filtar oa artes por: estilo, nome e ID
   
 ```s
   filtro {
-        game_name: "Nome do jogo"
-        game_style: "estilo do jogo"
-        game_Q-rate: "1 star" , "2 stars" , "3 stars" , "4 stars" , "5 stars"
+        art_name: "Nome do jogo"
+        art_style: "estilo do jogo"
+        art_ID: 0
     }
 ```
 - Games
-  - o usuário deve ser capaz de ver: o nome do jogo, imagem e estilo
+  - o usuário deve ser capaz de ver: o nome da arte, imagem e estilo
   
 ```s
-  games {
-        game_name:"Nome do jogo"
-        game_img:"img.jpg"
-        game_style:"estilo do jogo"
-        game_id:0000
-        game_rate:"x stars"
+  artes {
+        art_name:"Nome da arte"
+        art_img:"img.jpg"
+        art_style:"estilo da arte"
+        art_id:0000
     }
 ```
 ## :soon: Implementação futura
