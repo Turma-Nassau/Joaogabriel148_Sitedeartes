@@ -4,7 +4,7 @@
 Projeto criado para a matéria de Códigos de Alta Performance Web. sites de artes.
 
 ## :books: Contextualização
-* <b>Contextualização </b>: A aplicação em si será um site de artes(Rises The Moon), que terá como funcionalidades pricipais: disponibilizar artes para a visualização, filtrar por estilo, e selecionar a arte, e acessar suas informaçoẽs
+* <b>Contextualização </b>: A aplicação em si será um site de artes, que terá como funcionalidades pricipais: disponibilizar artes para a visualização, filtrar por estilo, e selecionar a arte, e acessar suas informaçoẽs
 
 ## :wrench: Tecnologias utilizadas
 * HTML
