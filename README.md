@@ -44,7 +44,7 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. sites de art
         art_ID: 0
     }
 ```
-- Games
+- Artes
   - o usuário deve ser capaz de ver: o nome da arte, imagem e estilo
   
 ```s
